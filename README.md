@@ -10,8 +10,6 @@ I'm Kat, a front-end dev currently based in Paris.
 
 <p align="center">
 
-[![katamaric's GitHub stats](https://github-readme-stats.vercel.app/api?username=katamaric&hide_rank=true&theme=transparent&hide_border=true)](https://github.com/katamaric/github-readme-stats)
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=katamaric&theme=transparent&hide_border=true&mode=weekly&card_width=490&ring=EB5454&fire=EB5454&stroke=C1E38F&dates=C1E38F&currStreakNum=C1E38F&sideNums=C1E38F&sideLabels=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
 
